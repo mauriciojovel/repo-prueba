@@ -6,6 +6,7 @@ public class IntegerDummyGenerator {
 	/**
 	 * Genera un numero aleatorio.
 	 * aleatorio
+	 * aleatorio2
 	 * @param size tama&ntilde; del numero.
 	 * @return
 	 */
