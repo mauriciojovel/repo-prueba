@@ -3,6 +3,11 @@ package com.creativa.dummy.data.generator;
 import java.util.Random;
 
 public class IntegerDummyGenerator {
+	/**
+	 * Genera un numero aleatorio.
+	 * @param size tama&ntilde; del numero.
+	 * @return
+	 */
 	public static String generate(int size) {
 		int i = 0;
 		String s = "";
