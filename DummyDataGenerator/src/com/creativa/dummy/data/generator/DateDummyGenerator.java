@@ -5,6 +5,9 @@ import java.util.GregorianCalendar;
 import java.util.Random;
 
 public class DateDummyGenerator {
+	/*
+	 * cometiario
+	 * */
 	public static Date generate(int anioInicio, int anioFin) {
 		Date d = null;
 		int anio;
