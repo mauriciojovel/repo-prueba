@@ -5,6 +5,7 @@ import java.util.Random;
 public class IntegerDummyGenerator {
 	/**
 	 * Genera un numero aleatorio.
+	 * aleatorio
 	 * @param size tama&ntilde; del numero.
 	 * @return
 	 */
