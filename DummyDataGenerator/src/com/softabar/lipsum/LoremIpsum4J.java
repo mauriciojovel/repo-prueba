@@ -27,6 +27,7 @@ import java.util.Properties;
 import java.util.Vector;
 
 /**
+ * 
  * LoremIpsum4J generates Lorem Ipsum paragraphs and words. This class uses lorem ipsum web service in www.lipsum.com.
  *<pre>
  * Copyright (C) 2010 Softabar
